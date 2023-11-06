@@ -1,4 +1,4 @@
-# <Sandesh's Webpage>
+# Sandesh's Webpage
 
 ## Description
 
