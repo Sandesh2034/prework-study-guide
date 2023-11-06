@@ -4,7 +4,7 @@
 
 This repository is part of my portfolio project that I completed as part of a front-end web development boot camp. The project demonstrates the skills and knowledge I've gained during the boot camp and showcases my ability to create dynamic and responsive web applications.
 
-Motivation
+## Motivation
 The motivation behind this project was to:
 
 Apply the concepts and techniques learned during the boot camp.
@@ -13,7 +13,7 @@ Create a practical and interactive web application that can be useful for end us
 Problem Solved
 This project doesn't focus on solving a specific problem but serves as a demonstration of my proficiency in front-end web development. It showcases my ability to create user-friendly, visually appealing, and responsive web applications.
 
-What I've Learned
+## What I've Learned
 Throughout the boot camp and this project, I've gained expertise in:
 
 HTML, CSS, and JavaScript
